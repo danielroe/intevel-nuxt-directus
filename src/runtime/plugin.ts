@@ -1,4 +1,4 @@
-import { defineNuxtPlugin, useRuntimeConfig } from '#app'
+import { defineNuxtPlugin, useRuntimeConfig } from '#imports'
 
 import { useDirectusToken } from './composables/useDirectusToken';
 import { useDirectusUser } from './composables/useDirectusUser';

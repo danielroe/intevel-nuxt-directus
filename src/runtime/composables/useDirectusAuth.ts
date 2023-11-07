@@ -1,4 +1,4 @@
-import { useRoute, useRuntimeConfig, navigateTo } from '#app'
+import { useRoute, useRuntimeConfig, navigateTo } from '#imports'
 
 import type { Ref } from 'vue'
 import type {

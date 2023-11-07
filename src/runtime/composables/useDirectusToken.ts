@@ -1,4 +1,4 @@
-import { useCookie, useNuxtApp, CookieRef, useRuntimeConfig } from '#app'
+import { useCookie, useNuxtApp, CookieRef, useRuntimeConfig } from '#imports'
 import { computed } from 'vue'
 import { DirectusAuthResponse } from '../types'
 import { useDirectusUrl } from './useDirectusUrl'

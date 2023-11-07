@@ -1,5 +1,5 @@
 import type { Ref } from 'vue'
-import { useState } from '#app'
+import { useState } from '#imports'
 import type { DirectusUser } from '../types'
 
 export const useDirectusUser = (): Ref<DirectusUser> =>
