@@ -38,7 +38,7 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "^0.4.2",
-    "@nuxt/module-builder": "latest",
+    "@nuxt/module-builder": "0.8.3",
     "@nuxtjs/eslint-config-typescript": "latest",
     "@types/node": "^18.14.1",
     "changelogen": "^0.4.1",
